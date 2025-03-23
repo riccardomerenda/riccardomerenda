@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riccardomerenda/"><img src="https://img.shields.io/badge/LinkedIn-Riccardo-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:riccardomerenda@gmail.com"><img src="https://img.shields.io/badge/Email-riccardomerenda@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://riccardomerenda.dev"><img src="https://img.shields.io/badge/Website-riccardomerenda.dev-0A0A0A?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/riccardomerenda/">
+    <img src="https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riccardomerenda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://riccardomerenda.dev">
+    <img src="https://img.shields.io/badge/Website-riccardomerenda.dev-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
