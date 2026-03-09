@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Riccardo</h1>
 
 <p align="center">
-  <em>Full-Stack Developer · AI Explorer · .NET & Python Enthusiast</em>
+  <em>Full-Stack Developer · AI Explorer · .NET, Python & Go Enthusiast</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 💼 Building robust, production-ready services using **.NET**, **Python**, and **Docker**
+- 💼 Building robust, production-ready services using **.NET**, **Python**, **Go**, and **Docker**
 - 🧠 Exploring **semantic search**, **LLM agents**, and **RAG-based systems**
 - 🛠️ Passionate about clean architecture, developer experience, and open source
 - 🍼 Full-stack dev by day, full-time dad by night (or maybe the opposite?)
@@ -26,16 +26,40 @@
 
 ### 🛠️ Tech Stack
 
-**Languages** &nbsp; C# · Python · TypeScript  
+**Languages** &nbsp; C# · Python · Go · TypeScript  
 **Backend** &nbsp; .NET 9 · Blazor Server · FastAPI · Entity Framework  
 **Frontend** &nbsp; Tailwind CSS · Chart.js · Razor Components  
 **Data** &nbsp; PostgreSQL · SQLite · Elasticsearch · Vector DBs  
 **DevOps** &nbsp; Docker · GitHub Actions · Fly.io · Linux  
 **AI/ML** &nbsp; LangChain · OpenAI · Embeddings · RAG Pipelines  
+**CLI Tools** &nbsp; Go · Bubble Tea · Lip Gloss  
 
 ---
 
-### 📂 Featured Project
+### 📂 Featured Projects
+
+#### 🔍 logq
+
+Fast, interactive log explorer for the terminal. Query log files with a SQL-like syntax, filter by time ranges, highlight patterns, and navigate results — all from your shell.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bubble%20Tea-FF75B5?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://github.com/riccardomerenda/logq"><strong>📦 Repository</strong></a>
+</p>
+
+**Key Features:**
+- ⚡ Blazing-fast log parsing with regex and glob pattern matching
+- 🕐 Time range queries with human-friendly syntax (`last:5m`, timestamp comparisons)
+- 📁 Multi-file support with merged timeline and source filtering
+- 📤 Batch export with multiple output formats
+- 🎨 Interactive TUI with real-time filtering and syntax highlighting
+
+---
 
 #### 💰 FamilyFinance
 
@@ -50,7 +74,7 @@ Open-source family wealth management app. Track net worth, investments, portfoli
 </p>
 
 <p>
-  <a href="https://github.com/riccardomerenda/FamilyBalance"><strong>📦 Repository</strong></a> · 
+  <a href="https://github.com/riccardomerenda/FamilyFinance"><strong>📦 Repository</strong></a> · 
   <a href="https://familyfinance-riccardo.fly.dev"><strong>🌐 Live Demo</strong></a>
 </p>
 
@@ -62,6 +86,16 @@ Open-source family wealth management app. Track net worth, investments, portfoli
 - 🔮 "What-if" simulator for future planning
 - 🌍 Multi-language (IT/EN) with dark mode
 - 🔒 Privacy-first: no analytics, GDPR compliant
+
+---
+
+### 🧪 Coming Soon
+
+Ideas brewing for when time allows — stay tuned!
+
+- 🤖 **AI-powered CLI assistant** — A terminal copilot for dev workflows, powered by local LLMs
+- 📡 **Real-time log streaming** — Extend logq with live tail, alerting, and remote log aggregation
+- 🧩 **RAG toolkit** — An opinionated, batteries-included framework for building retrieval-augmented generation pipelines
 
 ---
 
