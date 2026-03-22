@@ -1,139 +1,180 @@
 <div align="center">
 
-# Hey, I'm Riccardo 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=450&height=50&lines=Hey%2C+I'm+Riccardo+%F0%9F%91%8B" alt="Typing SVG" />
 
-**Full-Stack Developer · AI Explorer · .NET, Python & Go Enthusiast**
+**Full-Stack Developer · AI Builder · OSS Maker**
 
-Building things that are fast, smart, and occasionally caffeinated ☕
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardomerenda/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardomerenda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riccardomerenda)
+**I build things that are fast, smart, and occasionally caffeinated** ☕
+
+I'm a full-stack developer with a thing for clean architecture, AI-powered search, and terminal tools that spark joy.<br/>
+Based in 🇮🇹 Italy · Building with .NET, Python & Go · Shipping to production daily.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/riccardomerenda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/></a>
+&nbsp;
+<a href="https://github.com/riccardomerenda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/></a>
 
 </div>
 
----
+<br/>
 
+## 🧬 About
+
+```ts
+const riccardo = {
+  code:       ["C#", "Python", "Go", "TypeScript"],
+  backend:    [".NET 10", "Blazor", "FastAPI"],
+  data:       ["PostgreSQL", "Elasticsearch", "Vector DBs"],
+  ai:         ["RAG Pipelines", "Semantic Search", "LLM Agents"],
+  devops:     ["Docker", "GitHub Actions", "Fly.io"],
+  cli:        ["Bubble Tea", "Lip Gloss"],
+  motto:      "Ship it clean, ship it fast, ship it with tests.",
+  currently:  "Building MCP servers and exploring agentic workflows",
+};
 ```
-💼 Production-ready services with .NET, Python, Go & Docker
-🧠 Deep into semantic search, LLM agents & RAG systems
-🛠️ Clean architecture advocate & open-source contributor
-🍼 Full-stack dev by day, full-time dad by night (or maybe the opposite?)
-```
 
----
+<br/>
 
-### ⚡ Tech Stack
-
-| | |
-|---|---|
-| **Languages** | C# · Python · Go · TypeScript |
-| **Backend** | .NET 10 · Blazor Server · FastAPI · Entity Framework |
-| **Frontend** | Tailwind CSS · Chart.js · Razor Components |
-| **Data** | PostgreSQL · SQLite · Elasticsearch · Vector DBs |
-| **DevOps** | Docker · GitHub Actions · Fly.io · Linux |
-| **AI/ML** | LangChain · OpenAI · Embeddings · RAG Pipelines |
-| **CLI** | Go · Bubble Tea · Lip Gloss |
-
----
-
-### 📂 Featured Projects
-
-<table>
-<tr><td>
-
-#### 🔌 [ElasticMCP](https://github.com/riccardomerenda/elastic-mcp) &nbsp; `NEW`
-
-**An MCP Server for Elasticsearch — built with .NET 10**
-
-Let any AI agent query, explore, and analyze your Elasticsearch data using natural language. No copy-pasting JSON. No memorizing Query DSL. Zero LLM costs — the intelligence lives in the client.
-
-![.NET 10](https://img.shields.io/badge/.NET-10.0-512bd4?logo=dotnet)
-![Elasticsearch 9](https://img.shields.io/badge/Elasticsearch-9.x-00bfb3?logo=elasticsearch&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1.1-blue)
-![MIT](https://img.shields.io/badge/License-MIT-yellow)
-
-- 🔍 Full-text search, kNN vector/semantic search, aggregations
-- 🛡️ Security-first: index allowlist/denylist, field redaction, read-only mode
-- 🧩 Works with Claude, GitHub Copilot, Cursor, ChatGPT
-- 📡 Stdio + Streamable HTTP transports, Docker-ready
-- 📋 Guided prompts for index exploration, log analysis & semantic Q&A
-
-</td></tr>
-<tr><td>
-
-#### 🔍 [logq](https://github.com/riccardomerenda/logq)
-
-**Fast, interactive log explorer for the terminal**
-
-Query log files with SQL-like syntax, filter by time ranges, highlight patterns, and navigate results — all from your shell.
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Bubble Tea](https://img.shields.io/badge/Bubble%20Tea-FF75B5?logo=go&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?logo=gnubash&logoColor=white)
-
-- ⚡ Blazing-fast log parsing with regex and glob pattern matching
-- 🕐 Time range queries with human-friendly syntax (`last:5m`)
-- 📁 Multi-file support with merged timeline and source filtering
-- 📤 Batch export with multiple output formats
-- 🎨 Interactive TUI with real-time filtering and syntax highlighting
-
-</td></tr>
-<tr><td>
-
-#### 💰 [FamilyFinance](https://github.com/riccardomerenda/FamilyFinance) &nbsp; · &nbsp; [🌐 Live Demo](https://familyfinance-riccardo.fly.dev)
-
-**Open-source family wealth management app**
-
-Track net worth, investments, portfolios, and financial goals with beautiful visualizations and projections.
-
-![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-- 📊 Dashboard with wealth trends and composition charts
-- 🎯 Financial goals with progress tracking and projections
-- 🔮 "What-if" simulator for future planning
-- 🌍 Multi-language (IT/EN) with dark mode
-- 🔒 Privacy-first: no analytics, GDPR compliant
-
-</td></tr>
-</table>
-
----
-
-### 🧪 What's Brewing
-
-> Ideas for when the espresso kicks in — stay tuned.
-
-| | |
-|---|---|
-| 🤖 **AI-powered CLI assistant** | A terminal copilot for dev workflows, powered by local LLMs |
-| 📡 **Real-time log streaming** | Extend logq with live tail, alerting, and remote log aggregation |
-| 🧩 **RAG toolkit** | Opinionated, batteries-included framework for RAG pipelines |
-
----
-
-### 💼 What I Do Professionally
-
-| | |
-|---|---|
-| 🔍 **Semantic Search** | Embedding-based engines for name matching, transliteration & fuzzy search |
-| 🧠 **RAG Pipelines** | Knowledge retrieval systems powered by LLMs and vector databases |
-| ⚙️ **Microservices** | Scalable backends with .NET, FastAPI & containerized deployments |
-
----
-
-### 💬 Let's Talk About
-
-`LLMs` · `RAG pipelines` · `AI agents` · `.NET & Blazor` · `Clean architecture` · `Developer tools` · `Espresso-fueled side projects`
-
----
+## ⚡ Tech DNA
 
 <div align="center">
 
-*"The best code isn't just functional — it's thoughtful, intentional, and future-ready."*
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [ElasticMCP](https://github.com/riccardomerenda/elastic-mcp)
+
+**MCP Server for Elasticsearch — built with .NET 10**
+
+Let any AI agent query, explore, and analyze your Elasticsearch data using natural language. No JSON copy-pasting. No Query DSL memorization. Zero LLM costs.
+
+![.NET 10](https://img.shields.io/badge/.NET-10-512bd4?style=flat-square&logo=dotnet)
+![Elasticsearch](https://img.shields.io/badge/ES-9.x-00bfb3?style=flat-square&logo=elasticsearch&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1.1-blue?style=flat-square)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
+
+`full-text search` · `kNN vector search` · `aggregations`<br/>
+`security-first` · `Docker-ready` · `Stdio + HTTP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [logq](https://github.com/riccardomerenda/logq)
+
+**Fast, interactive log explorer for the terminal**
+
+Query log files with SQL-like syntax, filter by time ranges, highlight patterns — all from your shell.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bubble Tea](https://img.shields.io/badge/Bubble_Tea-FF75B5?style=flat-square&logo=go&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+`blazing-fast parsing` · `regex & glob matching`<br/>
+`time range queries` · `multi-file merge` · `interactive TUI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [FamilyFinance](https://github.com/riccardomerenda/FamilyFinance) &nbsp;·&nbsp; [🌐 Demo](https://familyfinance-riccardo.fly.dev)
+
+**Open-source family wealth management**
+
+Track net worth, investments, portfolios, and financial goals with beautiful visualizations and projections.
+
+![.NET 9](https://img.shields.io/badge/.NET-9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+`wealth dashboard` · `goal tracking` · `what-if simulator`<br/>
+`multi-language` · `dark mode` · `privacy-first`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 What's Next?
+
+Ideas brewing while the espresso kicks in...
+
+🤖 **AI CLI Assistant** — A terminal copilot for dev workflows, powered by local LLMs
+
+📡 **Live Log Streaming** — Extending logq with real-time tail, alerts & remote aggregation
+
+🧱 **RAG Toolkit** — Opinionated, batteries-included framework for RAG pipelines
+
+*Stay tuned.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🎯 What I Do
+
+<div align="center">
+
+| 🔍 Semantic Search | 🧠 RAG & Agents | ⚙️ Backend Systems |
+|:---:|:---:|:---:|
+| Embedding-based engines for name matching, transliteration & fuzzy search | Knowledge retrieval systems with LLMs, vector DBs & agentic workflows | Scalable microservices with .NET, FastAPI & containerized deployments |
+
+</div>
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riccardomerenda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=riccardomerenda&theme=github-dark-blue&hide_border=true" height="160" />
+
+</div>
+
+<br/>
+
+## 💬 Let's Talk
+
+<div align="center">
+
+`LLMs` · `RAG pipelines` · `AI agents` · `.NET & Blazor` · `clean architecture` · `developer tools` · `MCP servers` · `espresso-fueled side projects`
+
+<br/>
+
+*"The best code isn't just functional — it's thoughtful, intentional, and built to outlast the hype."*
+
+<br/>
+
+**Full-stack dev by day, full-time dad by night.**<br/>
+*(Or maybe the opposite? Hard to tell at this point.)*
 
 </div>
