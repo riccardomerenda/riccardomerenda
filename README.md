@@ -32,7 +32,7 @@ const riccardo = {
   devops:     ["Docker", "GitHub Actions", "Fly.io"],
   cli:        ["Bubble Tea", "Lip Gloss"],
   motto:      "Ship it clean, ship it fast, ship it with tests.",
-  currently:  "Building MCP servers and exploring agentic workflows",
+  currently:  "Building Driftcut — early-stop canary testing for LLM migrations",
 };
 ```
 
@@ -121,17 +121,19 @@ Track net worth, investments, portfolios, and financial goals with beautiful vis
 </td>
 <td width="50%" valign="top">
 
-### 🧩 What's Next?
+### ✂️ [Driftcut](https://github.com/riccardomerenda/driftcut) &nbsp;·&nbsp; [🌐 driftcut.dev](https://driftcut.dev)
 
-Ideas brewing while the espresso kicks in...
+**Early-stop canary testing for LLM model migrations**
 
-🤖 **AI CLI Assistant** — A terminal copilot for dev workflows, powered by local LLMs
+Know in minutes — not hours — whether a migration candidate is worth a full evaluation. Stop bad migrations before they burn your budget.
 
-📡 **Live Log Streaming** — Extending logq with real-time tail, alerts & remote aggregation
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Typer](https://img.shields.io/badge/Typer-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-multi--provider-009688?style=flat-square)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
 
-🧱 **RAG Toolkit** — Opinionated, batteries-included framework for RAG pipelines
-
-*Stay tuned.*
+`stratified sampling` · `failure archetypes` · `cost tracking`<br/>
+`early-stop decisions` · `quality · latency · cost`
 
 </td>
 </tr>
@@ -166,7 +168,7 @@ Ideas brewing while the espresso kicks in...
 
 <div align="center">
 
-`LLMs` · `RAG pipelines` · `AI agents` · `.NET & Blazor` · `clean architecture` · `developer tools` · `MCP servers` · `espresso-fueled side projects`
+`LLMs` · `LLM migrations` · `RAG pipelines` · `AI agents` · `.NET & Blazor` · `clean architecture` · `developer tools` · `MCP servers` · `espresso-fueled side projects`
 
 <br/>
 
