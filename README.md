@@ -157,7 +157,7 @@ Know in minutes — not hours — whether a migration candidate is worth a full 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=riccardomerenda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riccardomerenda&theme=github_dark" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=riccardomerenda&theme=github-dark-blue&hide_border=true" height="160" />
 
 </div>
