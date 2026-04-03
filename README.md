@@ -28,11 +28,11 @@ const riccardo = {
   code:       ["C#", "Python", "Go", "TypeScript"],
   backend:    [".NET 10", "Blazor", "FastAPI"],
   data:       ["PostgreSQL", "Elasticsearch", "Vector DBs"],
-  ai:         ["RAG Pipelines", "Semantic Search", "LLM Agents"],
+  ai:         ["RAG Pipelines", "Semantic Search", "LLM Agents", "Agent Observability"],
   devops:     ["Docker", "GitHub Actions", "Fly.io"],
-  cli:        ["Bubble Tea", "Lip Gloss"],
+  cli:        ["Bubble Tea", "Lip Gloss", "Textual", "Typer"],
   motto:      "Ship it clean, ship it fast, ship it with tests.",
-  currently:  "Building Driftcut — early-stop canary testing for LLM migrations",
+  currently:  "Building Driftcut and Steplight — local-first observability for LLM migrations and agent traces",
 };
 ```
 
@@ -104,19 +104,19 @@ Query log files with SQL-like syntax, filter by time ranges, highlight patterns 
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [FamilyFinance](https://github.com/riccardomerenda/FamilyFinance) &nbsp;·&nbsp; [🌐 Demo](https://familyfinance-riccardo.fly.dev)
+### 🔦 [Steplight](https://github.com/riccardomerenda/steplight)
 
-**Open-source family wealth management**
+**Local-first trace inspector for LLM agents and tool-driven workflows**
 
-Track net worth, investments, portfolios, and financial goals with beautiful visualizations and projections.
+Load a trace, inspect what happened, and understand why. Steplight helps developers debug agent runs with timelines, tool calls, retries, token usage, latencies, and diagnostics from the terminal.
 
-![.NET 9](https://img.shields.io/badge/.NET-9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual-TUI-7B68EE?style=flat-square)
+![Typer](https://img.shields.io/badge/Typer-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
 
-`wealth dashboard` · `goal tracking` · `what-if simulator`<br/>
-`multi-language` · `dark mode` · `privacy-first`
+`local-first observability` · `trace timelines` · `tool diagnostics`<br/>
+`token & latency insights` · `terminal UI` · `HTML export`
 
 </td>
 <td width="50%" valign="top">
@@ -168,7 +168,7 @@ Know in minutes — not hours — whether a migration candidate is worth a full 
 
 <div align="center">
 
-`LLMs` · `LLM migrations` · `RAG pipelines` · `AI agents` · `.NET & Blazor` · `clean architecture` · `developer tools` · `MCP servers` · `espresso-fueled side projects`
+`LLMs` · `LLM migrations` · `RAG pipelines` · `AI agents` · `agent observability` · `developer tools` · `MCP servers` · `.NET & Blazor` · `espresso-fueled side projects`
 
 <br/>
 
