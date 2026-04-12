@@ -32,7 +32,7 @@ const riccardo = {
   devops:     ["Docker", "GitHub Actions", "Fly.io"],
   cli:        ["Bubble Tea", "Lip Gloss", "Textual", "Typer"],
   motto:      "Ship it clean, ship it fast, ship it with tests.",
-  currently:  "Building Driftcut and Steplight — local-first observability for LLM migrations and agent traces",
+  currently:  "Building PromptScore, Driftcut and Steplight — prompt linting, LLM migration testing, and agent trace inspection",
 };
 ```
 
@@ -137,6 +137,27 @@ Know in minutes — not hours — whether a migration candidate is worth a full 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [PromptScore](https://github.com/riccardomerenda/promptscore)
+
+**Static analysis for LLM prompts — ESLint, but for prompts**
+
+Scores a prompt before it reaches the model. Flags ambiguity, missing structure, and gaps against model-specific best practices. Deterministic rules, pluggable profiles, zero LLM calls.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
+
+`deterministic rules` · `model profiles` · `batch analysis`<br/>
+`project config` · `CI-ready` · `npm + npx`
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <br/>
@@ -168,7 +189,7 @@ Know in minutes — not hours — whether a migration candidate is worth a full 
 
 <div align="center">
 
-`LLMs` · `LLM migrations` · `RAG pipelines` · `AI agents` · `agent observability` · `developer tools` · `MCP servers` · `.NET & Blazor` · `espresso-fueled side projects`
+`LLMs` · `prompt linting` · `LLM migrations` · `RAG pipelines` · `AI agents` · `agent observability` · `developer tools` · `MCP servers` · `.NET & Blazor` · `espresso-fueled side projects`
 
 <br/>
 
