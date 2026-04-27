@@ -161,16 +161,16 @@ Scores a prompt before it reaches the model. Flags ambiguity, missing structure,
 
 ### 🌐 [riccardomerenda.dev](https://riccardomerenda.dev)
 
-**Personal site — projects, writing & experiments**
+**Personal site — projects, experience & how I build**
 
-Where everything I build comes together — projects, notes, and the occasional deep-dive.
+Where my projects, my stack, and my story come together — deployed to the edge with Cloudflare Workers.
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-`portfolio` · `writing` · `experiments`<br/>
-`Astro + Tailwind` · `static-first` · `content-driven`
+`portfolio` · `experience` · `tech stack`<br/>
+`Astro + Tailwind` · `Cloudflare Workers` · `edge-deployed`
 
 </td>
 </tr>
