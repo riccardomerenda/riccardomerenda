@@ -94,10 +94,12 @@ Query log files with SQL-like syntax, filter by time ranges, highlight patterns 
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bubble Tea](https://img.shields.io/badge/Bubble_Tea-FF75B5?style=flat-square&logo=go&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-tap-FBB040?style=flat-square&logo=homebrew&logoColor=white)
+![Scoop](https://img.shields.io/badge/Scoop-bucket-205081?style=flat-square)
 
 `blazing-fast parsing` · `regex & glob matching`<br/>
-`time range queries` · `multi-file merge` · `interactive TUI`
+`time range queries` · `multi-file merge` · `interactive TUI`<br/>
+📦 `brew install riccardomerenda/tap/logq` · `scoop install logq`
 
 </td>
 </tr>
@@ -121,7 +123,7 @@ Load a trace, inspect what happened, and understand why. Steplight helps develop
 </td>
 <td width="50%" valign="top">
 
-### ✂️ [Driftcut](https://github.com/riccardomerenda/driftcut) &nbsp;·&nbsp; [🌐 driftcut.dev](https://driftcut.dev)
+### ✂️ [Driftcut](https://github.com/riccardomerenda/driftcut) &nbsp;·&nbsp; [🌐 driftcut.dev](https://driftcut.dev) &nbsp;·&nbsp; [📚 docs](https://docs.driftcut.dev)
 
 **Early-stop canary testing for LLM model migrations**
 
@@ -156,6 +158,20 @@ Scores a prompt before it reaches the model. Flags ambiguity, missing structure,
 
 </td>
 <td width="50%" valign="top">
+
+### 🌐 [riccardomerenda.dev](https://riccardomerenda.dev)
+
+**Personal site — projects, writing & experiments**
+
+Where everything I build comes together — projects, notes, and the occasional deep-dive.
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`portfolio` · `writing` · `experiments`<br/>
+`Astro + Tailwind` · `static-first` · `content-driven`
+
 </td>
 </tr>
 </table>
