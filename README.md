@@ -32,7 +32,7 @@ const riccardo = {
   devops:     ["Docker", "GitHub Actions", "Fly.io"],
   cli:        ["Bubble Tea", "Lip Gloss", "Textual", "Typer"],
   motto:      "Ship it clean, ship it fast, ship it with tests.",
-  currently:  "Building PromptScore, Driftcut and Steplight — prompt linting, LLM migration testing, and agent trace inspection",
+  currently:  "Building Project Graveyard, DomusScope and Design Court — a local-first archivist for abandoned side projects, a rent-vs-buy decision lab, and evidence-gated review for design documents",
 };
 ```
 
@@ -66,6 +66,43 @@ const riccardo = {
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚰️ [Project Graveyard](https://github.com/riccardomerenda/project-graveyard)
+
+**A local-first personal archivist for unfinished ideas and abandoned projects**
+
+Scans your local repos, observes weak signals — commits, README language, silence — and remembers why each project died, so the best parts can come back. Not a todo app: a museum of your creative life.
+
+![Go](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-pure_Go-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![CLI + Web UI](https://img.shields.io/badge/CLI-+_Web_UI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
+
+`git-aware scanning` · `evidence-based inbox` · `vital signs`<br/>
+`burial & resurrection` · `HTML museum export` · `no cloud, no guilt`<br/>
+📦 `go install github.com/riccardomerenda/project-graveyard/cmd/grave@latest`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 [DomusScope](https://github.com/riccardomerenda/domus-scope) &nbsp;·&nbsp; [🌐 try it live](https://riccardomerenda.github.io/domus-scope/)
+
+**Local-first rent-vs-buy decision lab**
+
+Simulates renting vs. buying over time through two lenses — unrecoverable costs and net worth — with every number explainable down to its formula. No account, no backend: everything stays in your browser.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/badge/MIT-yellow?style=flat-square)
+
+`two-lens simulation` · `sensitivity & fragility` · `negotiation lens`<br/>
+`explainable numbers` · `bilingual EN/IT` · `IndexedDB persistence`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -159,18 +196,19 @@ Scores a prompt before it reaches the model. Flags ambiguity, missing structure,
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [riccardomerenda.dev](https://riccardomerenda.dev)
+### ⚖️ [Design Court](https://github.com/riccardomerenda/design-court)
 
-**Personal site — projects, experience & how I build**
+**A technical court for software design documents**
 
-Where my projects, my stack, and my story come together — deployed to the edge with Cloudflare Workers.
+Adversarial review for RFCs and ADRs: agents propose findings, evidence is machine-verified against the document, and a Judge accepts, rejects or escalates. Every finding cites verifiable evidence.
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET-10-512bd4?style=flat-square&logo=dotnet)
+![License](https://img.shields.io/badge/Apache--2.0-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-engineering_preview-f59e0b?style=flat-square)
 
-`portfolio` · `experience` · `tech stack`<br/>
-`Astro + Tailwind` · `Cloudflare Workers` · `edge-deployed`
+`evidence-gated judgment` · `quote verification` · `stable fingerprints`<br/>
+`markdown + JSON reports` · `seeded benchmarks` · `deterministic agents`
 
 </td>
 </tr>
@@ -205,7 +243,7 @@ Where my projects, my stack, and my story come together — deployed to the edge
 
 <div align="center">
 
-`LLMs` · `prompt linting` · `LLM migrations` · `RAG pipelines` · `AI agents` · `agent observability` · `developer tools` · `MCP servers` · `.NET & Blazor` · `espresso-fueled side projects`
+`LLMs` · `prompt linting` · `LLM migrations` · `RAG pipelines` · `AI agents` · `agent observability` · `developer tools` · `local-first software` · `MCP servers` · `.NET & Blazor` · `espresso-fueled side projects`
 
 <br/>
 
